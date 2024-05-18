@@ -1,31 +1,35 @@
-<h1 align="center">Hi 👋, I'm Arpita Deb</h1>
+<h1 align="center">Hello 👋, I'm Arpita Deb</h1>
 <h3 align="center">Empowering Through Technology and Innovation, Turning Complex Problems into Simple Solutions from Saskatchewan, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitadeb&label=Profile%20views&color=0e75b6&style=flat" alt="arpitadeb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadeb" alt="arpitadeb" /></a> </p>
 
-- 🔭 I’m currently working on [TripPilotApp](https://github.com/TripPilotApp/travel-planner)
+<p align="left"> <a href="https://twitter.com/arpitadeb1990" target="blank"><img src="https://img.shields.io/twitter/follow/arpitadeb1990?logo=twitter&style=for-the-badge" alt="arpitadeb1990" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Certified Developer Associate course, TypeORM, etc.**
+- 🧠 I’m currently working on [TripPilotApp](https://github.com/TripPilotApp/travel-planner)
 
-- 🤝 I’m looking for help with [TinyTale App](https://github.com/CustomKidsBooks/children-books-personalized)
+- 🍁 I’m currently learning **AWS Certified Developer Associate course, TypeORM, DBMS.**
+
+- 🙋‍♀️ I’m looking for help with [TinyTale App](https://github.com/CustomKidsBooks/children-books-personalized)
 
 - 👨‍💻 All of my projects are available at [https://showcase-portfolio-chi.vercel.app/](https://showcase-portfolio-chi.vercel.app/)
 
-- 📝 I regularly read articles on [https://medium.com/](https://medium.com/)
+- 🙇‍♀️ I regularly read articles on [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **TypeScript, JavaScript, React, Node.js, MySQL**
+- 🌈 Ask me about **TypeScript, JavaScript, React, Node.js, MySQL**
 
-- 📫 How to reach me **tinytalecreators@gmail.com**
+- 🌷 How to reach me **tinytalecreators@gmail.com**
 
-- 📄 Know about my experiences [https://showcase-portfolio-chi.vercel.app/](https://showcase-portfolio-chi.vercel.app/)
+- 🦋 Know about my experiences [https://showcase-portfolio-chi.vercel.app/](https://showcase-portfolio-chi.vercel.app/)
 
-- ⚡ Fun fact **I love baking, cooking and often bring homemade treats to the office.**
+- 🍇 Fun fact **I love baking, cooking and often bring homemade treats to the office.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/arpitadeb1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitadeb1990" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpitadeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitadeb" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/10008537/arpita-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/10008537/arpita-deb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arpitadeb1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitadeb1990" height="30" width="40" /></a>
 </p>
 
@@ -35,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitadeb&show_icons=true&locale=en&layout=compact" alt="arpitadeb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitadeb&show_icons=true&locale=en" alt="arpitadeb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitadeb&" alt="arpitadeb" /></p>
