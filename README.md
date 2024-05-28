@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Arpita Deb</h1>
-<h3 align="center">Empowering Through Technology and Innovation, Turning Complex Problems into Simple Solutions from Saskatchewan, Canada</h3>
+<h3 align="center">Empowering Through Technology and Innovation, Turning Complex Problems into Simple Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitadeb&label=Profile%20views&color=0e75b6&style=flat" alt="arpitadeb" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🙋‍♀️ I’m looking for help with [TinyTale App](https://github.com/CustomKidsBooks/children-books-personalized)
 
-- 👨‍💻 All of my projects are available at [https://showcase-portfolio-chi.vercel.app/](https://showcase-portfolio-chi.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://showcase-portfolio-five.vercel.app/)
 
 - 🙇‍♀️ I regularly read articles on [https://medium.com/](https://medium.com/)
 
@@ -21,9 +21,9 @@
 
 - 🌷 How to reach me **tinytalecreators@gmail.com**
 
-- 🦋 Know about my experiences [https://showcase-portfolio-chi.vercel.app/](https://showcase-portfolio-chi.vercel.app/)
+- 🦋 Know about my experiences [Resume](https://drive.google.com/file/d/1Ru1VwvaoMfyXW5mGg3jH5RFqALu25nfu/view?usp=sharing)
 
-- 🍇 Fun fact **I love baking, cooking and often bring homemade treats to the office.**
+- 🍇 Fun fact **I love baking, cooking, and often bring homemade treats to the office.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
