@@ -220,11 +220,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-      </a>
-    </td>
   </tr>
 </table>
 
