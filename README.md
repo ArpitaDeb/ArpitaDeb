@@ -7,11 +7,11 @@
 
 - 🧠 I’m currently working on [TripPilotApp](https://github.com/TripPilotApp/travel-planner)
 
-- 🍁 I’m currently learning **AWS Certified Developer Associate course, TypeORM, DBMS.**
+- 🍁 I’m learning **AWS Certified Developer Associate course, TypeORM, DBMS.**
 
 - 🙋‍♀️ I’m looking for help with [TinyTale App](https://github.com/CustomKidsBooks/children-books-personalized)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://showcase-portfolio-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-arpita.vercel.app/)
 
 - 🙇‍♀️ I regularly read articles on [https://medium.com/](https://medium.com/)
 
